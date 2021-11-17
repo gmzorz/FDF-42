@@ -1,6 +1,6 @@
 # Fils de Fer
 
-<img src="images/FDF.jpeg" width="256" height="256"></img>
+<img src="images/FDF.jpeg" width="512" height="512"></img>
 
 **Project Goal**
 
@@ -24,7 +24,7 @@ An example of a file containing coordinates may look like the following:
 
 **Approach**
 
-Initially, with my previous experience in [Ray Tracing](https://github.com/gmzorz/MiniRT), i figured building a rasterizer would be best way to build this.
+Initially, with my previous experience in [Ray Tracing](https://github.com/gmzorz/MiniRT), i figured creating a rasterizer would be best way to build this.
 The first things that came to mind were the following:
 
 	-	Edge detection
