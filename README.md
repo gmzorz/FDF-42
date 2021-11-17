@@ -1,6 +1,8 @@
 # Fils de Fer
 
+<p align="center">
 <img src="images/FDF.jpeg" width="512" height="512"></img>
+</p>
 
 **Project Goal**
 
