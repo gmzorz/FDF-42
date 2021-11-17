@@ -46,7 +46,7 @@ Oh and also his shirt has different colors, and parts are further away from the 
 The projection stage went pretty straightforward, Buffer the vertices and hide those out of the screen, with the exception of me trying to figure out what matrix i had to apply to get the mandatory isometric projection.
 Not having paid enough attention to the articles i read and skipping the majority thinking i knew it all, i had simply forgotten that by dividing the coordinates by their respective Z-Coordinate results in a perspective projection. Always read your sources multiple times!
 
-**Project Grade: 125/100**
+🏁 **Project Grade: 125/100**
 
 # Compiling
 
